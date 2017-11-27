@@ -1,0 +1,50 @@
+body{
+    background-color: black;
+}
+div {
+    border-style: inset;
+    border-color: white;
+    margin: 0;
+    padding: 0;
+    border: 1%;
+    font-size: 25px;
+    background-color: black;
+    color: white;
+    height: 500px;
+}
+.flex {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-between;
+}
+div.box-1 {
+    width: 100%;
+}
+div.box-2 {
+    width: 49.66%;
+}
+div.box-3 {
+    width: 49.66%;
+}
+div.box-4 {
+    width: 24.65%;
+}
+div.box-5 {
+    width: 24.65%;
+}
+div.box-6 {
+    width: 24.65%;
+}
+div.box-7 {
+    width: 24.65%;
+}
+div.box-8 {
+    width: 33%;
+}
+div.box-9 {
+    width: 33%;
+}
+div.box-10 {
+    width: 33%;
+}
